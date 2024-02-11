@@ -1,0 +1,50 @@
+h1{
+    color: rgb(155, 61, 119);
+    border: 5px solid pink;
+    text-align: center;
+    border-radius:19px ;
+    background-color: rgba(245, 159, 173, 0.836);
+}
+body{
+    background-color: rgb(241, 175, 221);
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+nav a{
+    text-decoration:none ;
+    background-image:linear-gradient(to right bottom ,rgb(214, 94, 134),white) ;
+    border-radius:20px ;
+    padding: 10px;
+    box-shadow:5px 5px 5px 0 rgb(238, 107, 151);
+
+}
+h2{
+    color: rgb(212, 74, 138);
+   
+    text-align:left;
+
+}
+.tob{
+    color: rgb(141, 53, 81);
+
+}
+
+footer{
+ border: 7px double palevioletred;
+ border-radius: 8px;
+}
+p{
+    color: rgb(52, 58, 58);
+    font-size:21px;
+}
+.school img{
+    width: 200px;
+}
+.school{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
